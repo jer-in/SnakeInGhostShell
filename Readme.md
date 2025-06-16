@@ -28,8 +28,4 @@ A small twist on the classic Snake game — built in Unity with love, logic, and
 *Upload images to a `screenshots/` folder and link them like this:*
 
 ```markdown
-![Gameplay Screenshot](screenshot/screenshot1.png)
-![Gameplay Screenshot](screenshot/screenshot2.png)
-![Gameplay Screenshot](screenshot/screenshot3.png)
-![Gameplay Screenshot](screenshot/screenshot4.png)
-![Gameplay Screenshot](screenshot/screenshot5.png)
+
