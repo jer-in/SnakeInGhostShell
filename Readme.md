@@ -1,6 +1,6 @@
 # 🐍 Snake in a Ghost Shell 👻
 
-A cyberpunk-themed twist on the classic Snake game — built in Unity with love, logic, and a little ghost magic.
+A small twist on the classic Snake game — built in Unity with love, logic, and a little ghost magic.
 
 ---
 
@@ -28,4 +28,8 @@ A cyberpunk-themed twist on the classic Snake game — built in Unity with love,
 *Upload images to a `screenshots/` folder and link them like this:*
 
 ```markdown
-![Gameplay Screenshot](screenshots/gameplay1.png)
+![Gameplay Screenshot](screenshot/screenshot1.png)
+![Gameplay Screenshot](screenshot/screenshot2.png)
+![Gameplay Screenshot](screenshot/screenshot3.png)
+![Gameplay Screenshot](screenshot/screenshot4.png)
+![Gameplay Screenshot](screenshot/screenshot5.png)
