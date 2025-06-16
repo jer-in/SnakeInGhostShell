@@ -26,6 +26,9 @@ A small twist on the classic Snake game — built in Unity with love, logic, and
 ## 📸 Screenshots
 
 ![Pause Menu](Screenshot/Screenshot3.png)
-
+![Random](Screenshot/Screenshot1.png)
+![Random](Screenshot/Screenshot2.png)
+![Random](Screenshot/Screenshot4.png)
+![Random](Screenshot/Screenshot5.png)
 ```markdown
 
