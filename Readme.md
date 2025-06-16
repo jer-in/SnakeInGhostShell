@@ -25,7 +25,7 @@ A small twist on the classic Snake game — built in Unity with love, logic, and
 
 ## 📸 Screenshots
 
-*Upload images to a `screenshots/` folder and link them like this:*
+![Pause Menu](Screenshot/Screenshot3.png)
 
 ```markdown
 
