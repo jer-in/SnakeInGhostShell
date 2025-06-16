@@ -4,7 +4,8 @@
 public class Food : MonoBehaviour
 {
     public Collider2D gridArea;
-    private Snake snake;
+
+    private Snake snake; // private class snake 
 
     private void Awake()
     {
@@ -20,12 +21,9 @@ public class Food : MonoBehaviour
     {
         Bounds bounds = gridArea.bounds;
 
-        // Pick a random position inside the bounds
-        // Round the values to ensure it aligns with the grid
         int x = Mathf.RoundToInt(Random.Range(bounds.min.x, bounds.max.x));
         int y = Mathf.RoundToInt(Random.Range(bounds.min.y, bounds.max.y));
 
-        // Prevent the food from spawning on the snake
         while (snake.Occupies(x, y))
         {
             x++;
@@ -44,9 +42,8 @@ public class Food : MonoBehaviour
         transform.position = new Vector2(x, y);
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        RandomizePosition();
-    }
-
+    //private void OnTriggerEnter2D(Collider2D other)
+    //{
+        //RandomizePosition();
+    //}
 }

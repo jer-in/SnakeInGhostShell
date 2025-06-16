@@ -629,6 +629,7 @@ MonoBehaviour:
   speedMultiplier: 1
   initialSize: 4
   moveThroughWalls: 1
+  isPhasing: 0
 --- !u!50 &1161375265
 Rigidbody2D:
   serializedVersion: 4
@@ -1401,7 +1402,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   score: 0
+  foodEaten: 0
   scoreTxt: {fileID: 1700578636}
+  specialFoodPrefab: {fileID: 2717309568694714038, guid: f66b18e12057b854da8e95149418f650,
+    type: 3}
 --- !u!4 &2073752580
 Transform:
   m_ObjectHideFlags: 0
